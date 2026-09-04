@@ -2,6 +2,7 @@
   "name": "school-library-assistant",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://superb-croissant-437d00.netlify.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
